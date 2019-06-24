@@ -1,2 +1,3 @@
 def using_push(flat,testing)
-  flat.push
+  flat.push(testing)
+end
