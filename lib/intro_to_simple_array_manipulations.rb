@@ -1,4 +1,4 @@
-def using_push(arr, str)
+def using_push(arr1, str)
   arr.push(str)
 end
 
